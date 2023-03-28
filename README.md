@@ -1,2 +1,2 @@
 # Machine_learning
-I will upload some codes on machine learning problem
+This is the Zero to Mastery Machine Learning course. I will upload all the codes and the resources here.
