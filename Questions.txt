@@ -1,1 +1,3 @@
 Questions that needs teachers clarification--
+
+* Colab e runtime disconnect hole sob cell abar run kora lage etar kono upay!
